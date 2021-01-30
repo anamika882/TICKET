@@ -48,7 +48,7 @@ textarea {
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
-  padding: 10px ;
+  padding: 20px ;
 }
 
 input[type=text] {
@@ -138,9 +138,8 @@ caption {
 
 #trainClass label input {
   position: absolute;
-  top: -20px;
+  top: 20px;
   opacity: 0;
-  
 }
 
 #trainClass input:checked + span {
@@ -218,7 +217,7 @@ caption {
 }
 
 #selectClass > h2 {
-  font-family: "AvantGrade", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   font-size: 25px;
   padding: 20px 5px;
   text-align: center;
